@@ -1,0 +1,44 @@
+body {
+  font-family: 'Lato', sans-serif;
+}
+header {
+  text-align: center;
+  margin-top: 60px;
+  margin-bottom: 60px;
+}
+
+article {
+  color: blue;
+}
+
+.carte_de_visite {
+  background-color: rgba(142, 142, 142, .5);
+  width: 600px;
+  margin: 0 auto;
+  padding: 15px. 40px;
+  display: flex;
+  justify-content:space-between;
+  align-items: center;
+}
+
+h1 {
+text-align: center;
+}
+
+.messages{
+  display:block;
+  justifiy-content: space-between;
+  text-align: center;
+}
+
+aside {
+display: flex;
+height: 80px;
+}
+
+.photo {
+  /*height: 80px;*/
+  width: 80px;
+  border-radius: 50%;
+
+}
